@@ -50,7 +50,7 @@ function draw() {
 }
 
 function mousePressed() {
-  const particleCount = 800;
+  const particleCount = 400;
 
   // このクリックで出る花火の色を1回だけ決める
   const r = random(256);
